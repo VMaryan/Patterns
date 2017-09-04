@@ -1,0 +1,38 @@
+*.user
+*.aps
+*/bin/*.dll
+*.ncb
+*.suo
+
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+Bluedata/Bluedata/Content/DW Top 10 Priorities/*
+Bluedata/Bluedata/Content/Extract Reporting/*
+Bluedata/Bluedata/Content/Marts and Applications/*
+Bluedata/Bluedata/Content/Policies and Procedures/*
+Bluedata/Bluedata/Content/Standards and Definitions/*
+Bluedata/Bluedata/Content/staticreports/*
+Bluedata/Bluedata/Content/User Resources/*
+Bluedata/Bluedata/App_Data/data/*
